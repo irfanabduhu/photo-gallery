@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Dream Boat",
+        "author": "Irfanul Hoque",
+        "year": 2022,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "imageUrl": "/boat.jpg",
+        "position": [ 32, 32 ]
+    },
+    {
+        "id": 2,
+        "title": "Green Field",
+        "author": "Rafi",
+        "year": 2021,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt sunt saepe non autem nulla cumque labore omnis, repellendus itaque esse, architecto maiores. Ullam vero voluptas voluptatibus rem facere, velit tenetur.",
+        "imageUrl": "/field2.jpg",
+        "position": [ 32, 27 ]
+    },
+    {
+        "id": 3,
+        "title": "Red Flowers",
+        "author": "Irfanul Hoque",
+        "year": 2022,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt sunt saepe non autem nulla cumque labore omnis, repellendus itaque esse, architecto maiores. Ullam vero voluptas voluptatibus rem facere, velit tenetur.",
+        "imageUrl": "/flowers.jpg",
+        "position": [ 12, 27 ]
+    },
+    {
+        "id": 4,
+        "title": "Rain, Rain",
+        "author": "Hasan",
+        "year": 2021,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt sunt saepe non autem nulla cumque labore omnis, repellendus itaque esse, architecto maiores. Ullam vero voluptas voluptatibus rem facere, velit tenetur.",
+        "imageUrl": "/rain2.jpg",
+        "position": [ 12.83, 22.7 ]
+    },
+    {
+        "id": 5,
+        "title": "Beautiful Sunset",
+        "author": "Irfanul Hoque",
+        "year": 2020,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt sunt saepe non autem nulla cumque labore omnis, repellendus itaque esse, architecto maiores. Ullam vero voluptas voluptatibus rem facere, velit tenetur.",
+        "imageUrl": "/sun.jpg",
+        "position": [ 42.83, 32.7 ]
+    },
+    {
+        "id": 6,
+        "title": "Serene Forrest",
+        "author": "Hasan",
+        "year": 2022,
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt sunt saepe non autem nulla cumque labore omnis, repellendus itaque esse, architecto maiores. Ullam vero voluptas voluptatibus rem facere, velit tenetur.",
+        "imageUrl": "/tree.jpg",
+        "position": [ 92.83, 82.7 ]
+    }
+]
