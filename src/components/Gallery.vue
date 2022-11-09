@@ -8,7 +8,7 @@ defineProps({
 <template>
     <main class="grid w-2/3 grid-cols-3 mx-auto my-4" v-if="photoList">
         <div v-for="photo in photoList"
-            class="flex flex-col my-4 transition-all rounded-md shadow-md w-80 hover:scale-110">
+            class="flex flex-col mx-2 my-4 transition-all rounded-md shadow-md hover:shadow-xl">
             <router-link :to="'/details/' + photo.id">
                 <img :src="photo.imageUrl" class="object-fill drop-shadow-md rounded-t-md" />
                 <div class="p-6">
